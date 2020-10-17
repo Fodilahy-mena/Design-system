@@ -54,7 +54,7 @@
 ### Combination of both
 ![screenshot](/component-screenshot.png)
 
-### Butto schreenshot demo
+### Button schreenshot demo
 
 ![screenshot](/btn-screenshot.png)
 
