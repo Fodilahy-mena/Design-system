@@ -11,7 +11,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href=" https://reverent-fermat-2d51dc.netlify.app/">
+    <a href=" https://5f8d2a4f3dd9f83f6d5404bc--pedantic-clarke-c2a7fd.netlify.app/">
       Solution
     </a>
   </h3>
@@ -29,7 +29,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://5f87f064f8a7179adf6cc514--dreamy-bell-d25bc4.netlify.app/">
+    <a href="https://5f8d29b4d1a03c3a1495ca4a--dreamy-williams-3a3887.netlify.app/">
       Solution
     </a>
   </h3>
@@ -70,7 +70,7 @@ It was a great challenge  🙂 !
 ![screenshot](/input-screenshot.png)
 
 
-This is my [Input component](https://5f87f064f8a7179adf6cc514--dreamy-bell-d25bc4.netlify.app/) which is made with react. The screenshot above is the demo of the accomplished challenge. 
+This is my [Input component](https://5f8d29b4d1a03c3a1495ca4a--dreamy-williams-3a3887.netlify.app/) which is made with react. The screenshot above is the demo of the accomplished challenge. 
 
 Most of the user story were ok but setting icons in the inputs were a bit challenging. However, it's done with css backgroung.
 
